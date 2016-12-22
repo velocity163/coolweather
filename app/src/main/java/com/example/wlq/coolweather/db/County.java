@@ -1,6 +1,6 @@
 package com.example.wlq.coolweather.db;
 
-import DataSupport;
+import org.litepal.crud.DataSupport;
 
 /**
  * Created by wlq on 2016/12/21.
